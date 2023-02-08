@@ -14,6 +14,9 @@ Section 1
 1.1. Data Cleaning
 1.2. Data Exploration
 2. PCA Method
+1.1. Data Cleaning
+1.2. Data Exploration
+2. PCA Method
 
 Section 2
 3. Hierarchical Clustering
