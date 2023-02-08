@@ -33,6 +33,10 @@ your terminal. Finally, we need to download the UsArrests.csv file, which is in 
 the "Unsupervised Learning Analysis.ipynb" and "UsArrests.csv" files in the same folder so that we can run the
 project in Jupyter.
 
++ ### How it works
+
+![](screenshot/Screenshot (219).png)
+
 - ## Author
 
 The project has been created be me.
