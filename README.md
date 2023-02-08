@@ -29,9 +29,8 @@ The process is guided and there is an interpretation of all the analysis made.
 
 The file should be used in Jupyter Notebook. Once it is opened in Jupyter, we need to install all the
 required modules. All the necessary modules are in the first line of code and they can be installed using
-your terminal. Finally, we need to download the UsArrests.csv file, which is in this repository and keep
-the "Unsupervised Learning Analysis.ipynb" and "UsArrests.csv" files in the same folder so that we can run the
-project in Jupyter.
+your terminal. Finally, we need to download the UsArrests.csv and "Unsupervised Learning Analysis.ipynb" files,
+which are in this repository, and store them in the same folder so that we can run the project in Jupyter.
 
 + ### How it works
 
