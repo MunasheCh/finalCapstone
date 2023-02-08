@@ -32,7 +32,7 @@ required modules. All the necessary modules are in the first line of code and th
 your terminal. Finally, we need to download the UsArrests.csv and "Unsupervised Learning Analysis.ipynb" files,
 which are in this repository, and store them in the same folder so that we can run the project in Jupyter.
 
-+ ### How it works
++ #### How it works
 
 1 We are at the top.
 
