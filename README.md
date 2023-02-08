@@ -8,19 +8,14 @@ The process is guided and there is an interpretation of all the analysis made.
 - Content
 
 Section 1
-1. Data Manipulation
-1.1. Data Cleaning
-1.2. Data Exploration
-1.1. Data Cleaning
-1.2. Data Exploration
-2. PCA Method
-1.1. Data Cleaning
-1.2. Data Exploration
-2. PCA Method
+1 Data Manipulation
+  Data Cleaning
+  Data Exploration
+2 PCA Method
 
 Section 2
-3. Hierarchical Clustering
-4. K–means
+3 Hierarchical Clustering
+4 K–means
 
 - Installation
 
