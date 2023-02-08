@@ -35,7 +35,29 @@ project in Jupyter.
 
 + ### How it works
 
-![](Screenshot/Screenshot%20(219).png)
+1 We are at the top.
+
+<img src = 'Screenshots/Screenshot%20(220).png' width = 500 >
+
+2 We go to "Kernel" and click it.
+
+<img src = 'Screenshots/Screenshot%20(221).png' width = 500 >
+
+3 We click on "Restart & Run All".
+
+<img src = 'Screenshots/Screenshot%20(221).png' width = 500 >
+
+4 We click on "Restart and Run All Cells".
+
+<img src = 'Screenshots/Screenshot%20(222).png' width = 500 >
+
+5 Now it goes to the bottom automatically.
+
+<img src = 'Screenshots/Screenshot%20(223).png' width = 500 >
+
+6 We wait for it to load all the code. Then go to the top and you can start reading the project.
+
+<img src = 'Screenshots/Screenshot%20(219).png' width = 500 >
 
 - ## Author
 
