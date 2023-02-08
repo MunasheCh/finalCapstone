@@ -9,8 +9,8 @@ The process is guided and there is an interpretation of all the analysis made.
 
 Section 1
 1. Data Manipulation
-  1.1 Data Cleaning
-  1.2 Data Exploration
+   1.1 Data Cleaning
+   1.2 Data Exploration
 2. PCA Method
 
 Section 2
