@@ -35,7 +35,7 @@ project in Jupyter.
 
 + ### How it works
 
-![](screenshot/Screenshot%20(219).png)
+![](Screenshot/Screenshot%20(219).png)
 
 - ## Author
 
