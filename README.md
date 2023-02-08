@@ -9,7 +9,7 @@ The process is guided and there is an interpretation of all the analysis made.
 
 - ## Content
 
-Section 1
++ Section 1
 
 1 Data Manipulation
 
@@ -19,7 +19,7 @@ Section 1
   
 2 PCA Method
 
-Section 2
++ Section 2
 
 3 Hierarchical Clustering
 
