@@ -13,9 +13,9 @@ Section 1
 
 1 Data Manipulation
 
-1.1 Data Cleaning
+    1.1 Data Cleaning
 
-1.2 Data Exploration
+    1.2 Data Exploration
   
 2 PCA Method
 
